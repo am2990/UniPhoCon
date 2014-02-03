@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PGControlv0.1" EntryPointType="PGControlv0._1.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PGControlv0.1" Source="PGControlv0.1.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="Wintellect.Sterling.WindowsPhone" Source="Wintellect.Sterling.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Wintellect.Sterling.WindowsPhone.IsolatedStorage" Source="Wintellect.Sterling.WindowsPhone.IsolatedStorage.dll" />
+    <AssemblyPart x:Name="Wintellect.Sterling.WindowsPhone.IsolatedStorageUpgrade" Source="Wintellect.Sterling.WindowsPhone.IsolatedStorageUpgrade.dll" />
+  </Deployment.Parts>
+</Deployment>
